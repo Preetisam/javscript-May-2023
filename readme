@@ -1,0 +1,21 @@
+questions to solve
+
+Write a function that takes two numbers as arguments and returns their sum.
+
+Write a function that takes a string as an argument and returns the string in reverse order.
+
+Write a function that takes an array of numbers as an argument and returns the largest number in the array.
+
+Write a function that takes an object as an argument and returns an array of all the values in the object.
+
+Write a function that takes an array of strings as an argument and returns a new array with only the strings that have a length greater than 5.
+
+Write a function that takes a number as an argument and returns true if the number is even and false otherwise.
+
+Write a function that takes an array of objects as an argument and returns a new array with only the objects that have a property called "name".
+
+Write a function that takes an array of numbers as an argument and returns a new array with only the numbers that are divisible by 3.
+
+Write a function that takes two arrays as arguments and returns a new array with only the elements that appear in both arrays.
+
+Write a function that takes a string as an argument and returns a new string with all the vowels removed.
